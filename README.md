@@ -1,2 +1,4 @@
-# Ola Mundo
- primeiro repositorio versionado
+# Olá, Mundo!
+ Primeiro repositório versionado.
+
+Repositório criado durante o curso.
