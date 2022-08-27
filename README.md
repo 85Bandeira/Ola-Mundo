@@ -3,4 +3,4 @@
 
 Repositório criado durante o curso.
 
-Essa linha eu adiocionei iretamente no site!
+Essa linha eu adiocionei diretamente no site!
